@@ -1,0 +1,7 @@
+C:\Users\tiberiu.chirila\CSharpWorkspace\PostCodeValidation\PostCodeValidation\bin\Debug\PostCodeValidation.exe.config
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\bin\Debug\PostCodeValidation.exe.config
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\bin\Debug\PostCodeValidation.exe
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\bin\Debug\PostCodeValidation.pdb
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\obj\Debug\PostCodeValidation.csprojResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\obj\Debug\PostCodeValidation.exe
+C:\Users\Patricia\Desktop\PostCodeValidation\PostCodeValidation\obj\Debug\PostCodeValidation.pdb
